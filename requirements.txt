@@ -1,5 +1,6 @@
 streamlit
 requests
+google-generativeai
 feedparser
 google-api-python-client
 google-auth
